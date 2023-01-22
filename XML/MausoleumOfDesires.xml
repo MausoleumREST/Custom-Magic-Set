@@ -177,5 +177,25 @@
         <set>MOD</set>
         <tablerow>2</tablerow>
     </card>
+    <card>
+        <name>Assassin/name>
+        <text>Deathtouch, haste</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Token Creature — Assassin</type>
+            <maintype>Creature </maintype>
+            <manacost>0</manacost>
+            <cmc>0</cmc>
+            <pt>1/1</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+        <token>1</token>
+    </card>
   </cards>
 </cockatrice_carddatabase>

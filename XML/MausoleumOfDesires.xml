@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+<set>
+  <name>MOD</name>
+  <longname>Mausoleum Of Desires</longname>
+  <settype>Custom</settype>
+  <releasedate>2023-01-17</releasedate>
+</set>
+  </sets>
+  <cards>
+    <card>
+        <name>Law, Stonefist Fury</name>
+        <text>Whenever Law, Stonefist Fury enters the battlefield or attacks, target creature you control gains double strike and lifelink until end of turn. Partner with Shrike, Soul Knife Adept. </text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Elf Monk</type>
+            <maintype>Creature</maintype>
+            <manacost>2Rw</manacost>
+            <cmc>4</cmc>
+            <colors>RW</colors>
+            <coloridentity>RW</coloridentity>
+            <pt>3/3</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+        <name>Shrike, Soul Knife Adept</name>
+        <text>Whenever Shrike, Soul Knife Adept deals combat damage to a player, choose target artifact card in your graveyard. You may cast that card this turn. Partner with Law, Stonefist Fury. </text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Elf Rogue</type>
+            <maintype>Creature</maintype>
+            <manacost>1BU</manacost>
+            <cmc>3</cmc>
+            <colors>BU</colors>
+            <coloridentity>RW</coloridentity>
+            <pt>2/2</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+     <card>
+        <name>Faustinne, Bow-bound</name>
+        <text>Deathtouch Mystic Arcanum - At the beginning of your end step, exile the top card of your library. Until the end of your next turn, you may play that card. Pact Boon - Whenever you play a card from exile, create a Treasure token.</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Human Warlock</type>
+            <maintype>Creature</maintype>
+            <manacost>2BR</manacost>
+            <cmc>4</cmc>
+            <colors>BR</colors>
+            <coloridentity>BR</coloridentity>
+            <pt>1/4</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+        <name>Queen Apinah</name>
+        <text>Deathtouch, Haste When Queen Apinah enters the battlefield you become the monarch. At the beginning of your upkeep, if an opponent is the monarch, create a 1/1 black Assassin creature token with deathtouch and haste. </text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Half-Orc Warrior</type>
+            <maintype>Creature</maintype>
+            <manacost>1RBW</manacost>
+            <cmc>4</cmc>
+            <colors>RBW</colors>
+            <coloridentity>BRW</coloridentity>
+            <pt>3/3</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+        <name>Allistir, Golden-tongued</name>
+        <text>Whenever you cast an enchantment spell, you gain 1 life and draw a card.</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Enchantment Creature — Human Elf Bard</type>
+            <maintype>Creature Enchantment</maintype>
+            <manacost>1RBW</manacost>
+            <cmc>2</cmc>
+            <colors>gw</colors>
+            <coloridentity>gw</coloridentity>
+            <pt>1/2</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+        <name>Magrosh Hagsbane, Herald of the Storm</name>
+        <text>Whenever you cast a spell, you may put it on the bottom of its owner's library. If you do, reveal cards from the top of your library untiul you reveal a nonland card. You may cast that card without paying its mana cost. Then put all revealedd cards not cast this way on the bottom of your library in a random order. This ability triggers only once each turn.</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Human Orc SHaman</type>
+            <maintype>Creature </maintype>
+            <manacost>4RB</manacost>
+            <cmc>6</cmc>
+            <colors>rb</colors>
+            <coloridentity>rb</coloridentity>
+            <pt>2/7</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+     <card>
+        <name>Monsoon, the Silent Lightning </name>
+        <text>Commander ninjutsu UB(Return an unblocked attacker you control to hand: Put this card on the battlefield from your hand or the command zone tapped and attacking.) Whenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value.</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Genasi Ninja</type>
+            <maintype>Creature </maintype>
+            <manacost>1BU</manacost>
+            <cmc>3</cmc>
+            <colors>BU</colors>
+            <coloridentity>BU</coloridentity>
+            <pt>1/3</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+     <card>
+        <name>Gorm the Skysplitter</name>
+        <text> Indestructible As long as yoru devotion to blue and red is less than seven, Gorm isn't a creature. Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Wheneevr you reveal a nonland card this way, Gorm 3 damage to any target. </text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Enchantment Creature — God</type>
+            <maintype>Creature Enchantment</maintype>
+            <manacost>3RU</manacost>
+            <cmc>5</cmc>
+            <colors>3RU</colors>
+            <coloridentity>3RU</coloridentity>
+            <pt>6/5</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -115,6 +115,28 @@
         <tablerow>2</tablerow>
     </card>
     <card>
+    <name>Monsoon, the Silent Lightning</name>
+        <text>Commander ninjutsu UB(Return an unblocked attacker you control to hand: Put this card on the battlefield from your hand or the command zone tapped and attacking.) Whenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value.</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Genasi Ninja</type>
+            <maintype>Creature </maintype>
+            <manacost>1BU</manacost>
+            <cmc>3</cmc>
+            <colors>BU</colors>
+            <coloridentity>BU</coloridentity>
+            <pt>1/3</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+   
+    <card>
         <name>Magrosh Hagsbane, Herald of the Storm</name>
         <text>Whenever you cast a spell, you may put it on the bottom of its owner's library. If you do, reveal cards from the top of your library untiul you reveal a nonland card. You may cast that card without paying its mana cost. Then put all revealedd cards not cast this way on the bottom of your library in a random order. This ability triggers only once each turn.</text>
         <prop>
@@ -127,27 +149,6 @@
             <colors>rb</colors>
             <coloridentity>rb</coloridentity>
             <pt>2/7</pt>
-            <format-standard>legal</format-standard>
-            <format-commander>legal</format-commander>
-            <format-modern>legal</format-modern>
-            <format-pauper>legal</format-pauper>
-        </prop>
-        <set>MOD</set>
-        <tablerow>2</tablerow>
-    </card>
-     <card>
-        <name>Monsoon, the Silent Lightning </name>
-        <text>Commander ninjutsu UB(Return an unblocked attacker you control to hand: Put this card on the battlefield from your hand or the command zone tapped and attacking.) Whenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value.</text>
-        <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Legendary Creature — Genasi Ninja</type>
-            <maintype>Creature </maintype>
-            <manacost>1BU</manacost>
-            <cmc>3</cmc>
-            <colors>BU</colors>
-            <coloridentity>BU</coloridentity>
-            <pt>1/3</pt>
             <format-standard>legal</format-standard>
             <format-commander>legal</format-commander>
             <format-modern>legal</format-modern>
@@ -178,7 +179,7 @@
         <tablerow>2</tablerow>
     </card>
     <card>
-        <name>Assassin/name>
+        <name>Assassin</name>
         <text>Deathtouch, haste</text>
         <prop>
             <layout>normal</layout>

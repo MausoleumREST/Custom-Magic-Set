@@ -151,6 +151,8 @@ Example: If one effect reads "You may play an additional land this turn" and ano
 
 Your commander is in a special zone named the command zone, not in your hand. Whenevr your commander would be put into a zone except your hand, the battlefield or the command zone you may choose to place it in the command zone.
 
+Starting life is 40, insetad of the usual 20.
+
 ---
 Queen Apinah: The last ability of Queen Apinah (long may she reign) checks to see if an opponent is the monarch as your upkeep begins. If no opponent is the monarch, Queen Apinah's (long may she reign) ability won't trigger at all.
 

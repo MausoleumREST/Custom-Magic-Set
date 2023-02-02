@@ -157,6 +157,27 @@
         <set>MOD</set>
         <tablerow>2</tablerow>
     </card>
+    <card>
+        <name>Magrosh, Reverent Medium</name>
+        <text> At the beginning of each end step, create X 1/1 white Spirit creature tokens with flying, where X is the number of tokens you created this turn</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature — Human Orc Cleric</type>
+            <maintype>Creature </maintype>
+            <manacost>3WB</manacost>
+            <cmc>5</cmc>
+            <colors>wb</colors>
+            <coloridentity>wb</coloridentity>
+            <pt>3/4</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
      <card>
         <name>Gorm the Skysplitter</name>
         <text> Indestructible As long as yoru devotion to blue and red is less than seven, Gorm isn't a creature. Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Wheneevr you reveal a nonland card this way, Gorm 3 damage to any target. </text>
@@ -170,6 +191,27 @@
             <colors>3RU</colors>
             <coloridentity>3RU</coloridentity>
             <pt>6/5</pt>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set>MOD</set>
+        <tablerow>2</tablerow>
+    </card>
+     <card>
+        <name>Ramin Fireaxe, Echo Warrior</name>
+        <text> Whenever Ramin Fireaxe, Echo Warrior attacks, create Ramin's Echo, a legendary 3/4 red and green Human Warrior creature token. It enters the battlefield tapped and attacking. For each aura and Equipment attached to Ramin, create a token that's a copy of it attached to Ramin's Echo. Sacrifice all tokens created this way at the beginning of the next end step.</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature - Human Fighter</type>
+            <maintype>Creature </maintype>
+            <manacost>2RG</manacost>
+            <cmc>4</cmc>
+            <colors>RG</colors>
+            <coloridentity>RG</coloridentity>
+            <pt>3/4</pt>
             <format-standard>legal</format-standard>
             <format-commander>legal</format-commander>
             <format-modern>legal</format-modern>

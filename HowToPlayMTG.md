@@ -5,12 +5,7 @@ theme: gaia
 class: invert
 author: Dinu Ion
 paginate: true
-style: |
-    img[alt~="center"] {
-      display: inline-block;
-      text-align: center;
-      margin: 0 auto;
-    }
+size: 16:9
 ---
 <!-- paginate: false -->
 ![w:600](https://1000logos.net/wp-content/uploads/2022/10/Magic-The-Gathering-logo.png)
@@ -83,6 +78,22 @@ Think of creature cards as summon creature, not just instants and sorceries:
 
 A spell remains on the stack until it resolves, is countered, or otherwise leaves the stack.
 
+---
+# Special actions
+<p style="font-size: 30px">
+116.2 There are ten special actions which don't use the stack:
+- Playing a land
+- turning a face-down creature face up
+- Taking an action at a later time, usuall to end a continous effect. (eg. Liqiudmetal coating, Transforming werewolves)
+- Taking an action to ignore an effect from an ability for a duration.
+- Circling Vultures' discard ability.
+- Suspending a card.
+- Foretelling a card
+- Paying {3} to put a companion from outside the game into your hand.
+- Foretelling a card
+- Rolling the planar die
+- Turning a Conspiracy card face up
+</p>
 ---
 
 # Priority

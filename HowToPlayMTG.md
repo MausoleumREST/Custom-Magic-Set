@@ -51,6 +51,20 @@ Only Creatures are affected by summoning sickness.
 
 ---
 
+# Color Identity
+
+The color identity of a card is the combination of all colors in its mana cost, any color indicator or color-setting characteristic-defining abilities on the card and any mana symbols in the card's rules text. When determining a card's color identity, any mana symbols in the card's reminder text are ignored. 
+
+---
+
+![w:300](https://cards.scryfall.io/normal/front/0/8/08c14bb4-c9d9-41ce-a075-a441522a52c6.jpg?1604195144) ![w:300](https://cards.scryfall.io/png/front/1/1/1192f7a9-102e-4b3a-b154-18c8eb332217.png?1562899233) ![w:300](https://cards.scryfall.io/png/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.png?1631531828)
+
+---
+
+![w:300](https://cards.scryfall.io/large/front/3/1/316caa4e-a53a-460b-978c-5f0fba7bc549.jpg?1599710205) ![w:300](https://cards.scryfall.io/large/front/7/0/701942dd-7777-436f-8076-194584be8285.jpg?1562915770)
+
+---
+
 # The stack
 
 It is a first in, last out system.
@@ -94,6 +108,7 @@ A spell remains on the stack until it resolves, is countered, or otherwise leave
 - Rolling the planar die
 - Turning a Conspiracy card face up
 </p>
+
 ---
 
 # Priority
